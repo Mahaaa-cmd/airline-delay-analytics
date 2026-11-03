@@ -1,0 +1,6 @@
+field,iqr_low,iqr_high,flagged_rows,treatment
+arr_flights,-209.0,447.0,23683,Retained
+arr_del15,-44.5,87.5,23662,Retained
+arr_cancelled,-4.5,7.5,25068,Retained
+arr_diverted,0.0,0.0,45590,Retained
+arr_delay,-3120.0,5960.0,23088,Retained

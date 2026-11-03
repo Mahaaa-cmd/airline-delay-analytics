@@ -1,0 +1,11 @@
+{
+  "target": "National reported-scope monthly late-arrival share",
+  "validation": "Forecast 2023 from observations through September 2022; selection completed before 2025 origin",
+  "final_test": "Forecast 2025 from observations through September 2024",
+  "information_cutoff": "Conservative three-month publication gap; fixed-origin 15-step forecast, final 12 months evaluated",
+  "chosen_ets_trend": "add",
+  "band": "Symmetric 90th percentile absolute validation-year forecast error; illustrative, not a calibrated coverage guarantee",
+  "band_radius_pp": 5.669457762728841,
+  "test_band_coverage_pct": 100.0,
+  "limitations": "Only 12 validation and 12 test months; dependent errors; COVID structural break; no actual release-vintage data; no extrapolation of causal benefits."
+}

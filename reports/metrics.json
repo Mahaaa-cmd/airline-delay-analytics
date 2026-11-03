@@ -1,0 +1,8 @@
+{
+  "reported_flights": 56850634.0,
+  "late_arrival_pct": 18.739166567605913,
+  "cancellation_pct": 2.1199517317608105,
+  "diversion_pct": 0.24293308672687802,
+  "minutes_per_delayed_arrival": 69.30869413193146,
+  "unallocated_delay_minutes_pct": 0.0008491692139451998
+}

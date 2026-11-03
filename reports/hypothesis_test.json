@@ -1,0 +1,21 @@
+{
+  "null": "Mean airport summer-minus-autumn late-arrival share = 0",
+  "alternative": "Two-sided mean difference != 0",
+  "alpha": 0.05,
+  "analysis_years": "2023\u20132025",
+  "selection": "30 largest airports by reported 2018\u20132022 volume",
+  "paired_airports": 30,
+  "mean_summer_pct": 25.331239372345102,
+  "mean_autumn_pct": 16.40078299029392,
+  "difference_pp": 8.930456382051185,
+  "ci_low_pp": 7.999549715688662,
+  "ci_high_pp": 9.861363048413708,
+  "t_statistic": 19.620478368377466,
+  "p_value": 2.757692949742381e-18,
+  "paired_cohen_dz": 3.5821928638008314,
+  "shapiro_difference_p": 0.9986189578811427,
+  "signflip_sensitivity_p": 4.999750012499375e-05,
+  "positive_difference_airports": 30,
+  "practical_threshold_pp": 2.0,
+  "assumption_note": "Airports share disruption shocks; independence is approximate. Purposive top-airport sample; inference is exploratory, not causal or nationally representative."
+}

@@ -1,0 +1,25 @@
+{
+  "train_rows": 92046,
+  "validation_rows": 14981,
+  "test_rows": 20149,
+  "test_all_clean_rows": 22681,
+  "test_row_coverage_pct": 88.83647105506812,
+  "test_flight_coverage_pct": 98.75875849999419,
+  "features": [
+    "month_sin",
+    "month_cos",
+    "lag3_delay_rate",
+    "lag12_delay_rate",
+    "lag3_cancel_rate",
+    "lag3_delay_burden",
+    "lag3_log_volume"
+  ],
+  "chosen_max_leaf_nodes": 7,
+  "target": "Carrier-airport-month late-arrival share; not individual flight classification",
+  "training_cutoff": "2023-09; validation January\u2013September 2024; refit through 2024-09; final test 2025",
+  "initial_training_max_date": "2023-09-01",
+  "validation_max_date": "2024-09-01",
+  "refit_max_date": "2024-09-01",
+  "availability": "Only exact t-3, t-12 lags and calendar month. Rolling test features may use earlier 2025 observations once three months old. No test labels used for fitting.",
+  "asof_limit": "Publication-vintage data unavailable; retrospective as-of approximation; production requires actual release dates/revisions."
+}

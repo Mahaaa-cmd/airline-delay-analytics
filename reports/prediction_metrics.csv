@@ -1,0 +1,5 @@
+model,weighting,mae_pp,rmse_pp,r2
+Seasonal lag-12 baseline,target-month flight volume (evaluation only),5.9759262462463445,7.91317220027531,-0.17067266980493634
+Seasonal lag-12 baseline,equal carrier-airport-month weight,8.757672444770085,12.230933252313502,-0.35770553503540214
+Gradient boosting candidate,target-month flight volume (evaluation only),4.585187270751895,6.1539074269041185,0.29199526187205394
+Gradient boosting candidate,equal carrier-airport-month weight,6.93531348710546,9.808229513401862,0.1268926666373832

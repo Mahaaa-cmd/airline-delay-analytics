@@ -1,0 +1,19 @@
+{
+  "validated_date": "2026-11-03",
+  "python": "3.14.0",
+  "platform": "Darwin",
+  "executed_notebook_code_cells": 13,
+  "notebook_errors": 0,
+  "automated_tests_passed": 5,
+  "figure_count": 11,
+  "source_hashes": "Verified before analysis and by automated tests",
+  "checks": [
+    "Unchanged source and business-key uniqueness",
+    "Ratio-of-sums KPI denominator",
+    "Exact calendar lags with panel gaps",
+    "Recursive forecast baseline without future actuals",
+    "Generated reconciliation, bounded predictions, 2025 test scope, publication-safe training and selection cutoffs"
+  ],
+  "html": "Executive report and notebook export contain embedded charts; executive layout visually inspected",
+  "publishing": "https://github.com/Mahaaa-cmd/airline-delay-analytics"
+}
