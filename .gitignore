@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+# Restored unchanged from the source ZIP on first run.
+data/raw/Airline_Delay_Cause.csv
+# Rebuilt deterministically by the analysis pipeline.
+data/processed/cleaned_delays.csv
