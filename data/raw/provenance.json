@@ -1,0 +1,25 @@
+{
+  "publisher": "US DOT Bureau of Transportation Statistics",
+  "source_page": "https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp",
+  "download_url": "https://www.transtats.bts.gov/OT_Delay/ot_delaycause1_DL.aspx?8n4=9ur4r%20Brn4z106u%20or69rr0%20FHFEK%20NaQ%20FHGEF",
+  "download_date": "2026-11-03",
+  "requested_period": "2018-01 through 2025-12",
+  "carrier_selection": "All",
+  "airport_selection": "All",
+  "http_content_disposition": ": attachment; filename=Airline_Delay_Cause_20261102_233618.zip",
+  "archive_members": [
+    "Airline_Delay_Cause.csv",
+    "Download_Column_Definitions.xlsx"
+  ],
+  "release_version": "No immutable release ID supplied by download endpoint; snapshot identified by SHA-256.",
+  "files": {
+    "bts_delay_causes_2018_2025.zip": {
+      "bytes": 7064858,
+      "sha256": "94df580beb6394d6cdb45815b8d5f47aef4273a2c27639645c3a4ebf7c7169fc"
+    },
+    "Airline_Delay_Cause.csv": {
+      "bytes": 31211051,
+      "sha256": "f88bd9719c484304a8125eae5a7a690ef5f07a1a52ee6e73068a744138abde8e"
+    }
+  }
+}
